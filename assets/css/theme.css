@@ -17517,7 +17517,7 @@ label {
 .bg-holder {
   position: absolute;
   width: 100%;
-  min-height: 100%;
+  min-height: 86%;
   top: 0;
   left: 0;
   background-size: cover;
