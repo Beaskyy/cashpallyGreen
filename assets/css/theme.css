@@ -18266,5 +18266,5 @@ label {
 
 .footer-links:hover {
   text-decoration: none;
-  color: #21CD9A;
+  color: #21CD9A !important;
 }
